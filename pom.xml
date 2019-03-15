@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Demo</groupId>
-  <artifactId>MVCDemoTest</artifactId>
+  <groupId>Eendtech</groupId>
+  <artifactId>Eendtech</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>MVCDemoTest Maven Webapp</name>
+  <name>Eendtech</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.eendtech.com</url>
 
 
   <properties>
